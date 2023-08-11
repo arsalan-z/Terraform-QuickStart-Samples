@@ -1,0 +1,6 @@
+resource_group_name = "quickstart-resource-group"
+location            = "North Europe"
+vnet_address        = ["10.0.0.0/16"]
+subnet_cidrs        = ["10.0.1.0/24"]
+vnet_name           = "quickstart-vnet-00"
+vm_name             = "quickstart-vm-00"
